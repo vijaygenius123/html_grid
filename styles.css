@@ -25,3 +25,7 @@ h1{
     background-color:rgba(0,0,255,0.5);
     margin:0 0;
 }
+
+.box3{
+    grid-column: 1/3;
+}
